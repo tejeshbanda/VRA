@@ -1,0 +1,116 @@
+
+
+<!doctype html>
+<html>
+    <head>
+            <title> SRI LAKSHMI GANAPATHI TRADING COMPANY</title>  
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <style>
+            .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+          .about{
+              background-color: bisque;
+              text-align: center;
+              color: black;
+              font-style: italic;
+              padding:50px;
+              font-size: x-large;
+          } 
+          .io{
+              border-radius: 50%;
+          }
+          .intro{
+              background-color: bisque;
+              text-align: center;
+                          color:black;
+              padding: 50px:
+            
+          }
+          div.a{
+              text-align: center;
+              color: black;
+font-style: italic;
+font-size: x-large;
+          }
+          div.b{
+              text-align: center;
+              color: black;
+              font-style: italic;
+              font-size: x-large;
+
+          }
+            </style>
+    </head>
+    <body>
+        <div class="about">
+            <h1> SRI LAKSHMI  GANAPATHI TRADING COMPANY</h1>
+            <marquee style="color:brown;"> better <span style="color:black;"> quality </span> better life  </marquee>
+        </div>
+
+                <div class="intro">
+                                          
+                    <img src="E:\tejesh\STUFF\MILL FEST\IMG_4075.jpg" alt="v ram mohan rao"  class="io" width="300" height="300" >
+                    <br></br>
+                         
+                    <div class="a"> V V RAM MOHAN RAO
+                        <p>CONTACT ME:9866230061</p>
+                            
+                               <P>CONNET WITH ME IN </P>
+                                <a href="https://www.facebook.com/rammohan.rao.927" class="fa fa-facebook"></a>
+                                <a href="https://twitter.com/rammohanrao4" class="fa fa-twitter"></a>
+                                <a href="https://www.linkedin.com/in/rammohan-rao-9ba06a140/" class="fa fa-linkedin"></a>
+                           </div> 
+                           <br></br>
+                           <img src="E:\tejesh\STUFF\MILL FEST\IMG_3959.jpg" alt="v ram mohan rao"  class="io" width="300" height="300" >  
+                           <br></br>      
+                           
+                           <div class="b">V V KASI RAMA RAO
+                               <p>CONTACT ME:9866230062</p>
+                               <P>CONNECT WITH ME IN</P>
+                                <a href="https://www.facebook.com/venna.tejesh" class="fa fa-facebook"></a>
+                                <a href="https://twitter.com/TejeshVenna" class="fa fa-twitter"></a>
+                                <a href="https://www.linkedin.com/in/venna-tejesh-56b629172/" class="fa fa-linkedin"></a>
+                           </div> 
+                           
+                           
+                          
+               
+
+    
+    
+
+    </body>
+</html>
